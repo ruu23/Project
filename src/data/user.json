@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Arwa Mahmoud",
+    "username": "arwaxx",
+    "email": "arwa@gmail.com",
+    "phone": "123-456-7890",
+    "address": "Mansoura"
+  },
+  {
+    "id": 2,
+    "name": "Ahmed Ali",
+    "username": "ahmed",
+    "email": "ahmed@icloud.com",
+    "phone": "098-765-4321",
+    "address": "Cairo"
+  },
+  {
+    "id": 3,
+    "name": "Sara Ibrahim",
+    "username": "saraibrahim",
+    "email": "sara@hotmail.com",
+    "phone": "321-654-9870",
+    "address": "Alexandria"
+  },
+  {
+    "id": 4,
+    "name": "Mohamed Fathy",
+    "username": "mofathy",
+    "email": "mohamed@gmail.com",
+    "phone": "234-567-8901",
+    "address": "Giza"
+  },
+  {
+    "id": 5,
+    "name": "Laila Hassan",
+    "username": "lailahassan",
+    "email": "laila@outlook.com",
+    "phone": "456-789-0123",
+    "address": "Luxor"
+  },
+  {
+    "id": 6,
+    "name": "Omar El-Shamy",
+    "username": "omarelsh",
+    "email": "omar@yahoo.com",
+    "phone": "567-890-1234",
+    "address": "Aswan"
+  },
+  {
+    "id": 7,
+    "name": "Noura Khaled",
+    "username": "nkhaled",
+    "email": "noura@gmail.com",
+    "phone": "678-901-2345",
+    "address": "Suez"
+  },
+  {
+    "id": 8,
+    "name": "Khaled Morsi",
+    "username": "khaledm",
+    "email": "khaled@hotmail.com",
+    "phone": "789-012-3456",
+    "address": "Ismailia"
+  },
+  {
+    "id": 9,
+    "name": "Fatima Salem",
+    "username": "fsalem",
+    "email": "fatima@icloud.com",
+    "phone": "890-123-4567",
+    "address": "Port Said"
+  },
+  {
+    "id": 10,
+    "name": "Yasser Nabil",
+    "username": "yasser_nabil",
+    "email": "yasser@gmail.com",
+    "phone": "901-234-5678",
+    "address": "Hurghada"
+  }
+]
